@@ -1,0 +1,43 @@
+Matt Ely (811-653-312)
+
+    Instructions on how to compile and run code:
+
+    - To compile, type: "make"
+
+    - To run, type: "./main"
+
+    - To clean, type: "make clean"
+
+    Pointer Practice:
+    1a. 1
+    1b. 8
+    1c. 2
+    1d. 8
+    1e. 4
+    1f. 8
+    1g. 8
+    1h. 8
+    1i. 8
+    1j. 8
+
+    Trial 1:
+    2a. 0x7ffd08cb723c
+    2b. 0x7ffd08cb7240
+    2c. 0x7ffd08cb7244
+    2d. 0x7ffd08cb7248
+    2e. 0x7ffd08cb724c
+    Trial 2:
+    2a. 0x7fff2bf6cd5c
+    2b. 0x7fff2bf6cd60
+    2c. 0x7fff2bf6cd64
+    2d. 0x7fff2bf6cd68
+    2e. 0x7fff2bf6cd6c
+    Trial 3:
+    2a. 0x7ffc6af4557c
+    2b. 0x7ffc6af45580
+    2c. 0x7ffc6af45584
+    2d. 0x7ffc6af45588
+    2e. 0x7ffc6af4558c
+
+    2f. The outputs are different. There is a new memory address for each variable after each
+    run, thus the memory addresses printed are also different.
